@@ -23,4 +23,4 @@ A simple Minecraft server status bot with auto updating embeds and client status
 9. Start the bot again.
 
 # Credits
-Made by <a href="https://github.com/NotYourDoreamon">NotYourDoreamon</a> with ♥ for Hyperbolt and edited for the world to use! 😀
+Made by <a href="https://github.com/NotYourDoreamon">NotYourDoreamon</a> with ♥ for HunterCraft and edited for the world to use! 😀
